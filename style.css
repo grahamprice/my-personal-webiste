@@ -1,5 +1,8 @@
-body { 
-    background: blue;
-    
-    
-}
+html { 
+    background: url(https://media3.giphy.com/media/7LsYKNn60KhUs/giphy.gif?cid=ecf05e472w9lyiuvuwgcj688v6dxtmhzm5hyqmrk9u7ndaoo&rid=giphy.gif&ct=g) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+ 
