@@ -5,4 +5,11 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
- 
+  a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: beige;
+    color: rgb(125, 255, 89);
+}
